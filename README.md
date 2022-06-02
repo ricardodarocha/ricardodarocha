@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Delphi, QUIU as [QUESTOR Sistemas](https://www.questor.com.br/)
+- 🔭 I’m currently working on Delphi, QUIU at [QUESTOR Sistemas](https://www.questor.com.br/)
 - 🌱 I’m learning Python, Rust
 - 👯 And I’m looking to collaborate on Rust community
 - 💬 Ask me about everything
