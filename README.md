@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Delphi, QUIU as [QUESTOR Sistemas](https://www.questor.com.br/)
-- 🌱 I’m currently learning Python, Rust
-- 👯 I’m looking to collaborate on Rust community
+- 🌱 I’m learning Python, Rust
+- 👯 And I’m looking to collaborate on Rust community
 - 💬 Ask me about everything
 - 📫 How to reach me: ricardodarocha@outlook.com is my e-mail
 
