@@ -8,6 +8,9 @@
 - 💬 Ask me everything, I like to chat
 - 📫 send a e-mail: ricardodarocha@outlook.com 
 
+**Disclaimer**
+_Some repositories are intentionally in Portuguese to help Brazilian Community_
+
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardodarocha&show_icons=true&theme=tritanopia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodarocha&layout=compact&langs_count=7&theme=tritanopia"/> 
