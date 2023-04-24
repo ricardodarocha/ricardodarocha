@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello 👋
 
 - 👨‍💻 I'm a Senior Software Developer
 - 💾 I'm Specialist in Delphi Language
