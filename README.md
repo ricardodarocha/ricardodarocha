@@ -1,12 +1,12 @@
 ### Olá 👋
 
-- 🔭 Atualmente eu sou programador Delphi|QUIU na [QUESTOR Sistemas](https://www.questor.com.br/)
-- 🌱 Eu estou aprendendo Python e Rust
-- 🦀 Eu estou preparando um tutorial bem legal para ajudar a comunidade Rust a crescer
-- 😉 Venha aprender Rust comigo!
-- 💬 Me pergunte sobre qualquer coisa, eu gosto de conversar
-- 🐴 E de jogar xadrez
-- 📫 Você me encontra no e-mail: ricardodarocha@outlook.com 
+- 👨‍💻 I'm a Senior Software Developer
+- 💾 I'm Specialist in Delphi Language
+- 🌱 I'm learning Python and Rust
+- 🦀 I help Rust Community to growing up in Brazil and around the world
+- 😉 You are welcome to learn Rust with me!
+- 💬 Ask me everything, I like to chat
+- 📫 send a e-mail: ricardodarocha@outlook.com 
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardodarocha&show_icons=true&theme=tritanopia&include_all_commits=true&count_private=true"/>
