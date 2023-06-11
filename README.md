@@ -4,6 +4,7 @@
 - 💾 I'm Specialist in Delphi Language
 - 🌱 I'm learning Python and Rust
 - 🦀 I help Rust Community to growing up in Brazil and around the world
+  - See [💚💙💛 **Validador-br**](https://github.com/ricardodarocha/validador-br)
 - 😉 You are welcome to learn Rust with me!
 - 💬 Ask me everything, I like to chat
 - 📫 send a e-mail: ricardodarocha@outlook.com 
